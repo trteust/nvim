@@ -1,4 +1,4 @@
--- Welcome to my neovim configuration. 
+-- Welcome to my neovim configuration.
 --
 -- TODO: Add info about organization.
 
