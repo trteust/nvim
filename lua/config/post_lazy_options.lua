@@ -1,3 +1,3 @@
-require 'plugins.nightfox'
+require 'plugins.kanagawa'
 
-vim.cmd.colorscheme 'carbonfox'
+vim.cmd.colorscheme('kanagawa-dragon')

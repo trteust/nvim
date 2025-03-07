@@ -48,6 +48,13 @@ vim.opt.mouse = 'a'
 -- Don't show the mode, it's already there NOTE Turn on later
 -- vim.opt.showmode = false
 
+-- Set tab width and behaviour
+vim.opt.tabstop = 8
+vim.opt.shiftwidth = 8
+vim.opt.expandtab = true
+vim.opt.cindent = true
+vim.opt.cinwords = "if,else,while,do,for"
+
 vim.schedule(function()
 	vim.opt.clipboard = 'unnamedplus'
 end)
